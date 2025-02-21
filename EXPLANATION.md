@@ -129,4 +129,4 @@ Checking out... Your order details: Pizza: Quantity - 2, Total Price - 13000 Bur
 ---
 
 ## **🎯 Final Thoughts**  
-🚀 Now you understand exactly how each function works!  
+Now you understand exactly how each function works!  

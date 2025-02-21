@@ -15,8 +15,8 @@ If you still get errors, **don’t panic!** Every bug is just another lesson in 
 
 👉 **Follow me on:😎
 X:https://x.com/joshoftp?s=21
-Linkedin:
-Threads:
+Linkedin:https://www.linkedin.com/in/gana-joshua-danlami-331156331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Threads:https://www.threads.net/@ganajoshua_danlami
 
 ---
 

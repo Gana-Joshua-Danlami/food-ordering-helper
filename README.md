@@ -14,7 +14,7 @@ If you still get errors, **don’t panic!** Every bug is just another lesson in 
 💬 Feel free to connect with me—I’d love to see how you improve your version!  
 
 👉 **Follow me on:😎
-X:
+X:https://x.com/joshoftp?s=21
 Linkedin:
 Threads:
 

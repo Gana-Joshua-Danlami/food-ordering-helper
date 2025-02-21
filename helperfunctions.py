@@ -13,7 +13,7 @@ Just copy and paste them into the correct cells in your instructor's notebook.
 # 🛒 FOOD ORDERING HELPER FUNCTIONS
 # 🚀 This file contains structured functions to help you with your project.
 # 📖 Need a step-by-step explanation? Check out EXPLANATION.md:
-# 👉 
+# 👉 https://github.com/Gana-Joshua-Danlami/food-ordering-helper/blob/main/EXPLANATION.md
 
 def get_user_choice():
     """
